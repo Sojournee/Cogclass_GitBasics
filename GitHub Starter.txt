@@ -1,0 +1,8 @@
+Starting a GitHub Account and Project 
+Notepad description for starting a GitHub account and repository with files
+Create a GitHub account
+Add a Project or Repository (good practice to add a README file, give a description of project work…,ID whether project seen by private or public)
+The repository has a homepage. You can create and edit files from that homepage. Clicking n the repository name takes you back to the main branch, where you can add or create and name a new file and extension in the repository. 
+Questions: What is a markdown file, what are types of commit? 
+Commit changes when ready and remember to confirm any files or texts that you have added. 
+You can upload a local file and commit to your repository. To do so, Next you must upload the file and commit it to your repository. On your repository page, clickadd file and then select upload files.
